@@ -7,6 +7,8 @@ import java.util.List;
 public class Submaxer {
 
 	/**
+	 * Buferio Elmentas sudarytas iš skaitinės vertės bei indekso kuriuo buvo paimtas iš pradinio masyvo. (sk,i)
+	 * 
 	 * Algoritmas:
 	 * 
 	 * 1) dešinysis atkarpos galas ima elementą (sk,i_right) iš duomenų masyvo ir
